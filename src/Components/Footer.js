@@ -6,7 +6,7 @@ export default class Footer extends Component {
  render() {
      return (
       <>
-       <Navbar collapseOnSelect expand="md" bg="dark" variant="fix-bottom">
+       <Navbar collapseOnSelect expand="md" bg="dark" variant="fixed-bottom">
             <Container>
              <Navbar.Brand href="/">
              <img src={star}
